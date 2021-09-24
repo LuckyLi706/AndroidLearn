@@ -1,7 +1,7 @@
 # Android
 
 ## 工具类（utils）
-+ [ToastUtil](app\src\main\java\com\lucky\androidlearn\utils\ToastUtil.java)
++ [ToastUtil](app/src/main/java/com/lucky/androidlearn/utils/ToastUtil.java)
 
   弹出吐司，子线程和主线程
 
