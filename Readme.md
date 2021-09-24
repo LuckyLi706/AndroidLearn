@@ -5,11 +5,11 @@
 
   弹出吐司，子线程和主线程
 
-+ [AppUtil](app\src\main\java\com\lucky\androidlearn\utils\AppUtil.java)
++ [AppUtil](app/src/main/java/com/lucky/androidlearn/utils/AppUtil.java)
 
   获取App的信息（所有权限、签名、图标、名称、版本号、版本名、包名）
 
-+ [PhoneUtil](app\src\main\java\com\lucky\androidlearn\utils\PhoneUtil.java)
++ [PhoneUtil](app/src/main/java/com/lucky/androidlearn/utils/PhoneUtil.java)
 
   手机的信息
 
